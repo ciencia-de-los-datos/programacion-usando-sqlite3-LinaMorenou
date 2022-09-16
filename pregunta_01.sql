@@ -18,3 +18,5 @@
 --  >>> Escriba su codigo a partir de este punto <<<
 --
 SELECT SUM([ALL | DISTINCT ] c12)
+
+      FROM table-tb11
