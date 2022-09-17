@@ -17,6 +17,6 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+INSERT INTO tbl1
 SELECT SUM([ALL | DISTINCT ] c12)
-
-      FROM table-tbl1
+FROM table-tbl1
