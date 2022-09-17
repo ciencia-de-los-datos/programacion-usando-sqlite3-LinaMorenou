@@ -19,4 +19,4 @@
 --
 SELECT SUM([ALL | DISTINCT ] c12)
 
-      FROM table-tb11
+      FROM table-tbl1
